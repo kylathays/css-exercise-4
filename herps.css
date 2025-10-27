@@ -1,0 +1,36 @@
+body {
+background-color:rgb(196, 255, 215);
+max-width: 600px;
+margin:auto;
+}
+
+.header {
+background-color:rgb(157, 206, 255);
+padding: 20px;
+margin-bottom: 20px
+}
+
+.herps-links {
+background-color:rgb(26, 137, 137);
+padding: 20px;
+margin-left: 20px;
+color:antiquewhite;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.main {
+display: flex;
+background-color: rgb(89, 200, 146);
+padding: 20px;
+
+}
+
+.footer {
+background-color:rgb(208, 197, 255);
+padding: 20px;
+margin-top: 20px;
+}
